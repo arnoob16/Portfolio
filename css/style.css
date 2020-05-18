@@ -76,9 +76,10 @@ html , body, a{
   margin-right: 5%;
 }
 .nav-item{
-  padding-right: 20px !important;
-  justify-content: center;
-  font-size: 1.5em !important;
+  padding: 15px !important;
+  font-size: 2vh;
+  color: #222;
+  background-color: #f7f7f7 !important;
 }
 footer{
   background-color: #222;
@@ -95,7 +96,8 @@ footer a{
   background-color: #222;
 }
 .about{
-  margin-top: 100px !important;
+  height: 100vh;
+  padding-top: 11vh;
 }
 .about h4{
   font-family: 'Montserrat', sans-serif;
@@ -105,8 +107,17 @@ footer a{
 .about p{
   font-family: 'Montserrat', sans-serif;
   color: #222;
-  font-size: 1.25rem;
-  line-height: 25px;
+  font-size: 3vh;
+  line-height: 3vh;
+}
+.about .dp{
+  height: 30vh;
+  width: 30vh;
+  border: 2px solid #222;
+  padding: 1px;
+}
+.about .intro{
+  margin-top: 2%;
 }
 .image{
   display: flex;
@@ -115,22 +126,19 @@ footer a{
   justify-content: center;
 }
 .image .btn{
-  margin: 3%;
+  margin: 1.5%;
 }
 .certifications{
-  background-color: #222;
   display: flex !important;
   flex-direction: column; 
   align-items: center !important;
   justify-content: center !important;
-  width: 50% !important;
 }
-
 .carousel-item img{
-  height: 40vh !important;
+  height: 35vh !important;
 }
 .wrap{
-  margin: 3%;
+  margin-top: 3%;
   font-family: 'Montserrat', sans-serif;
   display: flex !important; 
   flex-direction: column;
@@ -140,6 +148,7 @@ footer a{
 }
 .wrap p{
   margin-top: 2%;
+  font-size: 2vh;
 }
 @media screen and (max-width:576px){
   .w-75{
@@ -173,4 +182,14 @@ footer a{
 .fab{
   color: #222;
   margin: 0% 1%;
+}
+.portfolio{
+  height: 100vh;
+} 
+.inner-wrap{
+  padding-top: 11vh;
+  height: 89vh;
+}
+#project{
+  height: 40vh;
 }
