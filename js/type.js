@@ -13,7 +13,7 @@ let skill = "";
     if(char.length === skill.length){
         skillIndex++;
         index = 0;
-        setTimeout(type, 1000);
+        setTimeout(type, 2000);
     }
     else{
         setTimeout(type, 200);
