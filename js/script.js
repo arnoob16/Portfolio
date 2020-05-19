@@ -22,7 +22,7 @@ var Project = {
         description : "This game was developed as an Image Quiz game, the participant is expected to see the blueprint and guess the structure. The one with max points in the given time limit wins. This was made for an Online event conducted by Konstruktion, a domain of Aaruush, a National level Techno-Management Fest of SRM IST.<br> This needed the use of HTML, CSS & Javascript. The questions & hints were made by Committee-Heads of Konstruktion Domain.",
         link : "https://arnab4srk.github.io/KonstruktionGame/",
         repo: "https://github.com/arnab4srk/KonstruktionGame",
-        image: "../Assets/Portfolio/Konstruktion.png",
+        image: "Assets/Portfolio/Konstruktion.png",
         category: "Website",
         date: "May, 2020."
     },
@@ -36,10 +36,10 @@ var Project = {
         date: "May, 2020."
     },
     fifth:{
-        name : "LearnYuva Official Site",
+        name : "Real Madrid site concept Web-Design",
         description: "LearnYuva is an Ed-Tech Startup which aims to provide Education with the help of Live & Interactive sessions.<br> LearnYuva is an online educational platform which focuses primarily on educating those aspiring students who wish to take a step forward and do more than the necessary by not just achieving their targets in school, but also in the outside world.<br>The Front-End of the Official site of our Startup was developed by me and <a href=''>Anurag</a>. Anurag also designed the UI of the website. The Backend work was done by <a href=''>Saqib</a>.",
-        link : "https://learnyuva.live/",
-        repo: "https://github.com/anuragbyte/ly",
+        link : "https://arnab4srk.github.io/Real-Madrid/",
+        repo: "https://github.com/arnab4srk/RealMadrid",
         image: "../Assets/Portfolio/RealMadrid.png",
         category: "Website",
         date: "May, 2020."
@@ -47,8 +47,8 @@ var Project = {
     sixth:{
         name : "LearnYuva Official Site",
         description: "LearnYuva is an Ed-Tech Startup which aims to provide Education with the help of Live & Interactive sessions.<br> LearnYuva is an online educational platform which focuses primarily on educating those aspiring students who wish to take a step forward and do more than the necessary by not just achieving their targets in school, but also in the outside world.<br>The Front-End of the Official site of our Startup was developed by me and <a href=''>Anurag</a>. Anurag also designed the UI of the website. The Backend work was done by <a href=''>Saqib</a>.",
-        link : "https://learnyuva.live/",
-        repo: "https://github.com/anuragbyte/ly",
+        link : "https://arnab4srk.github.io/Portfolio/",
+        repo: "https://github.com/arnab4srk/Portfolio",
         image: "../Assets/Portfolio/Portfolio.png",
         category: "Website",
         date: "May, 2020."
