@@ -31,7 +31,7 @@ var Project = {
     },
     fourth:{
         name : "LearnYuva Official Site",
-        description: "LearnYuva is an Ed-Tech Startup which aims to provide Education with the help of Live & Interactive sessions.<br> LearnYuva is an online educational platform which focuses primarily on educating those aspiring students who wish to take a step forward and do more than the necessary by not just achieving their targets in school, but also in the outside world.<br>The Front-End of the Official site of our Startup was developed by me and <a href='https://www.linkedin.com/in/anurag-singh-07723719b/'>Anurag</a>. Anurag also designed the UI of the website. The Backend work was done by <a href='https://www.linkedin.com/in/rahmansaqib/'>Saqib</a>.",
+        description: "LearnYuva is an Ed-Tech Startup which aims to provide Education with the help of Live & Interactive sessions.<br> LearnYuva is an online educational platform which focuses primarily on educating those aspiring students who wish to take a step forward and do more than the necessary by not just achieving their targets in school, but also in the outside world.<br> <br>The Front-End of the Official site of our Startup was developed by me and <a href='https://www.linkedin.com/in/anurag-singh-07723719b/'>Anurag</a>. Anurag also designed the UI of the website. The Backend work was done by <a href='https://www.linkedin.com/in/rahmansaqib/'>Saqib</a>.",
         link : "https://learnyuva.live/",
         repo: "https://github.com/anuragbyte/ly",
         image: "Assets/Portfolio/LearnYuva.png",
@@ -41,7 +41,7 @@ var Project = {
     },
     fifth:{
         name : "Real Madrid site concept Web-Design",
-        description: "LearnYuva is an Ed-Tech Startup which aims to provide Education with the help of Live & Interactive sessions.<br> LearnYuva is an online educational platform which focuses primarily on educating those aspiring students who wish to take a step forward and do more than the necessary by not just achieving their targets in school, but also in the outside world.<br>The Front-End of the Official site of our Startup was developed by me and <a href=''>Anurag</a>. Anurag also designed the UI of the website. The Backend work was done by <a href=''>Saqib</a>.",
+        description: "This was made as a Web-Design challenge on Coders of XDA group. The constraints were strictly no use of frameworks & JS. The website is not Responsive. It is best viewed on the PC view.",
         link : "https://arnab4srk.github.io/Real-Madrid/",
         repo: "https://github.com/arnab4srk/RealMadrid",
         image: "Assets/Portfolio/RealMadrid.png",
@@ -51,7 +51,7 @@ var Project = {
     },
     sixth:{
         name : "My Portfolio Website",
-        description: "LearnYuva is an Ed-Tech Startup which aims to provide Education with the help of Live & Interactive sessions.<br> LearnYuva is an online educational platform which focuses primarily on educating those aspiring students who wish to take a step forward and do more than the necessary by not just achieving their targets in school, but also in the outside world.<br>The Front-End of the Official site of our Startup was developed by me and <a href=''>Anurag</a>. Anurag also designed the UI of the website. The Backend work was done by <a href=''>Saqib</a>.",
+        description: "One of my connections on LinkedIn said that every developer has a portfolio website for people to visit and see their work, rate them, give them a feedback and hire them. This is why I created my portfolio website. I intend to keep this site updated everytime with my new projects.",
         link : "https://arnab4srk.github.io/Portfolio/",
         repo: "https://github.com/arnab4srk/Portfolio",
         image: "Assets/Portfolio/Portfolio.png",
