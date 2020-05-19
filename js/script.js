@@ -54,6 +54,7 @@ var Project = {
         date: "May, 2020."
     }
 }
+var Hala Madrid y Na DaMas= "Real Madrid";
 genDesc("first");
 var c=0;
 function genDesc(index){
