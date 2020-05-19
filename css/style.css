@@ -215,6 +215,7 @@ footer a{
 .wrap-project:hover .overlay{
   z-index: +100;
   opacity: .9;
+  transition-duration: .5s ease;
 }
 .overlay button{
   padding: 8px;
@@ -254,5 +255,8 @@ button :active{
   background-color: #f7f7f7;
 }
 .modal h5, strong{
+  font-family: 'Montserrat', sans-serif;
+}
+.portfolio h5{
   font-family: 'Montserrat', sans-serif;
 }
