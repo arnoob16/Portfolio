@@ -14,7 +14,7 @@ var Project = {
         description: "This game was developed/inspired by the viral Instagram filter, Guess the Gibberish. The user with max points in the given time limit wins. This was made for an Online event conducted by Vimanaaz, a domain of Aaruush, a National level Techno-Management Fest of SRM IST. The questions & hints were made by Committee-Heads of Vimanaaz Domain.",
         link : "https://arnab4srk.github.io/VimanazGame/",
         repo: "https://github.com/arnab4srk/VimanazGame",
-        image: "Assets/Portfolio/Vimanaz.png",
+        image: "Assets/Portfolio/Vimanaz.jpg",
         category: "Website",
         date: "May, 2020.",
         made: "This project was developed using HTML & CSS for styling and structuring, & JavaScript for making the game interactive."
@@ -44,7 +44,7 @@ var Project = {
         description: "This was made as a Web-Design challenge on Coders of XDA group. The constraints were strictly no use of frameworks & JS. The website is not Responsive. It is best viewed on the PC view.",
         link : "https://arnab4srk.github.io/Real-Madrid/",
         repo: "https://github.com/arnab4srk/RealMadrid",
-        image: "Assets/Portfolio/RealMadrid.png",
+        image: "Assets/Portfolio/RealMadrid.jpg",
         category: "Website",
         date: "May, 2020.",
         made: "This project was developed using HTML for structuring. The competition had restrictions on any use of Frameworks, hence this is styled completely using CSS."
